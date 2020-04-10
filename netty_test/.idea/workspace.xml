@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="08dc41e8-7fee-413e-aee2-63becd96611e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Wy02gTNoymm6FEJeFI492GkOWw" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.24482758" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="Application.GroupChatClient">
+    <configuration name="GroupChatClient" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xiaNing.netty.groupchat.GroupChatClient" />
+      <module name="netty_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xiaNing.netty.groupchat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupChatServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xiaNing.netty.groupchat.GroupChatServer" />
+      <module name="netty_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xiaNing.netty.groupchat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xiaNing.netty.heartbeat.MyServer" />
+      <module name="netty_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xiaNing.netty.heartbeat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NettyByteBuf01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xiaNing.netty.buf.NettyByteBuf01" />
+      <module name="netty_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xiaNing.netty.buf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NettyByteBuf02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xiaNing.netty.buf.NettyByteBuf02" />
+      <module name="netty_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xiaNing.netty.buf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.GroupChatClient" />
+      <item itemvalue="Application.GroupChatServer" />
+      <item itemvalue="Application.NettyByteBuf01" />
+      <item itemvalue="Application.NettyByteBuf02" />
+      <item itemvalue="Application.MyServer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GroupChatClient" />
+        <item itemvalue="Application.GroupChatServer" />
+        <item itemvalue="Application.MyServer" />
+        <item itemvalue="Application.NettyByteBuf02" />
+        <item itemvalue="Application.NettyByteBuf01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08dc41e8-7fee-413e-aee2-63becd96611e" name="Default Changelist" comment="" />
+      <created>1580106321757</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580106321757</updated>
+      <workItem from="1580106328634" duration="1448000" />
+      <workItem from="1580108034506" duration="11000000" />
+      <workItem from="1580132020414" duration="1810000" />
+      <workItem from="1580133893988" duration="165000" />
+      <workItem from="1580134121375" duration="2516000" />
+      <workItem from="1580205941729" duration="5888000" />
+      <workItem from="1580282151902" duration="1270000" />
+      <workItem from="1580283493671" duration="15245000" />
+      <workItem from="1580363495690" duration="18189000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="477" y="76" key="#NettyClient" timestamp="1580288352665">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="76" key="#NettyClient/0.0.1536.824@0.0.1536.824" timestamp="1580288352665" />
+    <state x="477" y="76" key="#NettyClient2" timestamp="1580136118901">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="76" key="#NettyClient2/0.0.1536.824@0.0.1536.824" timestamp="1580136118901" />
+    <state x="514" y="49" width="583" height="672" key="#NettyServer_(1)" timestamp="1580117446881">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="514" y="49" width="583" height="672" key="#NettyServer_(1)/0.0.1536.824@0.0.1536.824" timestamp="1580117446881" />
+    <state x="361" y="73" width="810" height="677" key="#Project_Structure" timestamp="1580107205521">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="73" width="810" height="677" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1580107205521" />
+    <state x="271" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580383461339">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="271" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1580383461339" />
+    <state x="978" y="134" key="#com.intellij.ide.util.MemberChooser" timestamp="1580387244009">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="978" y="134" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1580387244009" />
+    <state x="818" y="340" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1580385189796">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="818" y="340" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1580385189796" />
+    <state width="485" height="445" key="DebuggerActiveHint" timestamp="1580364793910">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="485" height="445" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1580364793910" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1580299755977">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580299755977" />
+    <state width="725" height="209" key="GridCell.Tab.0.bottom" timestamp="1580391910246">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="725" height="209" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580391910246" />
+    <state width="725" height="209" key="GridCell.Tab.0.center" timestamp="1580391910246">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="725" height="209" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580391910246" />
+    <state width="725" height="209" key="GridCell.Tab.0.left" timestamp="1580391910246">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="725" height="209" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580391910246" />
+    <state width="725" height="209" key="GridCell.Tab.0.right" timestamp="1580391910246">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="725" height="209" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580391910246" />
+    <state width="723" height="415" key="GridCell.Tab.1.bottom" timestamp="1580365039561">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="415" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580365039561" />
+    <state width="723" height="415" key="GridCell.Tab.1.center" timestamp="1580365039561">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="415" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1580365039561" />
+    <state width="723" height="415" key="GridCell.Tab.1.left" timestamp="1580365039561">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="415" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1580365039561" />
+    <state width="723" height="415" key="GridCell.Tab.1.right" timestamp="1580365039561">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="415" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1580365039561" />
+    <state width="1493" height="252" key="GridCell.Tab.4.bottom" timestamp="1580210782420">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.4.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580210782420" />
+    <state width="1493" height="252" key="GridCell.Tab.4.center" timestamp="1580210782420">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.4.center/0.0.1536.824@0.0.1536.824" timestamp="1580210782420" />
+    <state width="1493" height="252" key="GridCell.Tab.4.left" timestamp="1580210782420">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.4.left/0.0.1536.824@0.0.1536.824" timestamp="1580210782420" />
+    <state width="1493" height="252" key="GridCell.Tab.4.right" timestamp="1580210782420">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.4.right/0.0.1536.824@0.0.1536.824" timestamp="1580210782420" />
+    <state width="1493" height="252" key="GridCell.Tab.5.bottom" timestamp="1580210783120">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.5.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580210783120" />
+    <state width="1493" height="252" key="GridCell.Tab.5.center" timestamp="1580210783110">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.5.center/0.0.1536.824@0.0.1536.824" timestamp="1580210783110" />
+    <state width="1493" height="252" key="GridCell.Tab.5.left" timestamp="1580210783110">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.5.left/0.0.1536.824@0.0.1536.824" timestamp="1580210783110" />
+    <state width="1493" height="252" key="GridCell.Tab.5.right" timestamp="1580210783120">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.5.right/0.0.1536.824@0.0.1536.824" timestamp="1580210783120" />
+    <state width="1493" height="252" key="GridCell.Tab.6.bottom" timestamp="1580210777831">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.6.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580210777831" />
+    <state width="1493" height="252" key="GridCell.Tab.6.center" timestamp="1580210777831">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.6.center/0.0.1536.824@0.0.1536.824" timestamp="1580210777831" />
+    <state width="1493" height="252" key="GridCell.Tab.6.left" timestamp="1580210777831">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.6.left/0.0.1536.824@0.0.1536.824" timestamp="1580210777831" />
+    <state width="1493" height="252" key="GridCell.Tab.6.right" timestamp="1580210777831">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.6.right/0.0.1536.824@0.0.1536.824" timestamp="1580210777831" />
+    <state width="1493" height="252" key="GridCell.Tab.7.bottom" timestamp="1580210776821">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.7.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580210776821" />
+    <state width="1493" height="252" key="GridCell.Tab.7.center" timestamp="1580210776821">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.7.center/0.0.1536.824@0.0.1536.824" timestamp="1580210776821" />
+    <state width="1493" height="252" key="GridCell.Tab.7.left" timestamp="1580210776821">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.7.left/0.0.1536.824@0.0.1536.824" timestamp="1580210776821" />
+    <state width="1493" height="252" key="GridCell.Tab.7.right" timestamp="1580210776821">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.7.right/0.0.1536.824@0.0.1536.824" timestamp="1580210776821" />
+    <state x="326" y="0" key="SettingsEditor" timestamp="1580117433189">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="326" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1580117433189" />
+    <state width="390" height="415" key="XDebugger.FullValuePopup" timestamp="1580287380063">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="390" height="415" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1580287380063" />
+    <state x="323" y="151" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1580211636789">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="323" y="151" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1580211636789" />
+    <state x="178" y="116" key="new project wizard" timestamp="1580133994788">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="116" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1580133994788" />
+    <state x="425" y="186" key="run.anything.popup" timestamp="1580295144031">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="186" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1580295144031" />
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1580288199299">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1580288199299" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="((DefaultChannelHandlerContext)ctx).prev" custom="io.netty.channel.DefaultChannelHandlerContext" />
+        <watch expression="((byte[])((InstrumentedUnpooledUnsafeHeapByteBuf)buffer).array)[9]" custom="byte[],io.netty.buffer.UnpooledByteBufAllocator.InstrumentedUnpooledUnsafeHeapByteBuf" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
